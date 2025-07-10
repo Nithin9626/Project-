@@ -1,2 +1,2 @@
-# Project-
-EXCEL Project 
+E-Commerce Sales Dashboard – Summary
+This project features an interactive Excel dashboard that analyses e-commerce sales across time, regions, and product categories. Key insights include day-wise sales trends, top-performing categories, regional performance, and yearly comparisons to identify patterns and support strategic decisions. The Excel file includes raw sales data, pivot table calculations, and a user-friendly dashboard. Built using Microsoft Excel, it leverages pivot tables, charts, conditional formatting, and clean design principles to present clear, actionable insights. Ideal for showcasing skills in data analysis, visualization, and dashboard creation within Excel.
